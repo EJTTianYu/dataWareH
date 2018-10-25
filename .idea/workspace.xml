@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4c0542b8-a8b1-4ffc-8eda-6f784c0dbd74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataWareH.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataWareH.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -8,6 +9,9 @@
       <change beforePath="$PROJECT_DIR$/venv/pythonSc/trans.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pythonSc/trans.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/tablePro/client2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tablePro/client2.csv" afterDir="false" />
     </list>
+=======
+    <list default="true" id="4c0542b8-a8b1-4ffc-8eda-6f784c0dbd74" name="Default Changelist" comment="" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +21,14 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/dataWareH$logic.coverage" NAME="logic Coverage Results" MODIFIED="1540200336267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pythonSc" />
     <SUITE FILE_PATH="coverage/dataWareH$loan.coverage" NAME="loan Coverage Results" MODIFIED="1540197626837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pythonSc" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/dataWareH$fact1.coverage" NAME="fact1 Coverage Results" MODIFIED="1540389720629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pythonSc" />
+=======
+    <SUITE FILE_PATH="coverage/dataWareH$client.coverage" NAME="client Coverage Results" MODIFIED="1540190767558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/dataWareH$cardC.coverage" NAME="cardC Coverage Results" MODIFIED="1540179188855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/dataWareH$trans.coverage" NAME="trans Coverage Results" MODIFIED="1540196616854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pythonSc" />
+    <SUITE FILE_PATH="coverage/dataWareH$fact.coverage" NAME="fact Coverage Results" MODIFIED="1540390069077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pythonSc" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
     <SUITE FILE_PATH="coverage/dataWareH$CSVtest.coverage" NAME="CSVtest Coverage Results" MODIFIED="1540178206366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/dataWareH$test.coverage" NAME="test Coverage Results" MODIFIED="1540197277848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/dataWareH$trans.coverage" NAME="trans Coverage Results" MODIFIED="1540288895690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pythonSc" />
@@ -68,31 +79,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="csv" value="2" />
+          <entry key="csv" value="4" />
           <entry key="dummy" value="18" />
-          <entry key="py" value="2806" />
+          <entry key="py" value="2809" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="2806" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="2809" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
-          <entry key="csv" value="55" />
+          <entry key="csv" value="66" />
           <entry key="ipynb" value="1" />
-          <entry key="py" value="24" />
+          <entry key="py" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Ini" value="1" />
-          <entry key="PLAIN_TEXT" value="55" />
-          <entry key="Python" value="24" />
+          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="Python" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -135,6 +146,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/venv/tablePro/fact1.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -144,29 +156,59 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="30" />
+=======
+        <entry file="file://$PROJECT_DIR$/venv/pythonSc/accout.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="17" lean-forward="true" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/pythonSc/fact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/venv/pythonSc/client2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/venv/tablePro/fact1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="25" lean-forward="true" selection-end-line="77972" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/venv/pythonSc/fact1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+=======
+        <entry file="file://$PROJECT_DIR$/venv/tablePro/fact.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="49" lean-forward="true" selection-end-line="1" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/venv/tablePro/account1.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -176,11 +218,27 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
+=======
+        <entry file="file://$PROJECT_DIR$/venv/csvPre/disp.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/csvPre/card.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12973">
+              <caret column="3" selection-end-line="1" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/venv/tablePro/client1.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -204,6 +262,39 @@
           </provider>
         </entry>
       </file>
+=======
+        <entry file="file://$PROJECT_DIR$/venv/csvPre/trans.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3105">
+              <caret line="207" column="62" selection-start-line="207" selection-start-column="62" selection-end-line="207" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/pythonSc/trans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/tablePro/account1.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/csvPre/client.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -247,11 +338,16 @@
         <option value="$PROJECT_DIR$/venv/tablePro/loan3.csv" />
         <option value="$PROJECT_DIR$/venv/tablePro/trans3.csv" />
         <option value="$PROJECT_DIR$/venv/pythonSc/trans.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/venv/tablePro/trans4.csv" />
         <option value="$PROJECT_DIR$/venv/tablePro/fact1.csv" />
         <option value="$PROJECT_DIR$/venv/tablePro/fact.csv" />
         <option value="$PROJECT_DIR$/venv/pythonSc/fact1.py" />
         <option value="$PROJECT_DIR$/venv/pythonSc/client2.py" />
+=======
+        <option value="$PROJECT_DIR$/venv/pythonSc/fact.py" />
+        <option value="$PROJECT_DIR$/venv/tablePro/fact1.csv" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       </list>
     </option>
   </component>
@@ -261,9 +357,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="193" />
     <option name="y" value="46" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="220" />
+    <option name="y" value="53" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
     <option name="width" value="1440" />
     <option name="height" value="963" />
   </component>
@@ -327,7 +429,11 @@
       <recent name="D:\dataWareH\venv\csvPre" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="E:\dataWareH\venv\tablePro" />
+=======
+      <recent name="$PROJECT_DIR$/venv/tablePro" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       <recent name="$PROJECT_DIR$/venv/pythonSc" />
       <recent name="D:\dataWareH\venv\csvPre" />
     </key>
@@ -344,7 +450,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.client2">
+=======
+  <component name="RunManager" selected="Python.fact">
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="dataWareH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -367,17 +477,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="client2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dataWareH" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
+=======
+    <configuration name="fact" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataWareH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/python.app/Contents/MacOS/python" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/pythonSc" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/pythonSc/client2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/pythonSc/fact.py" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,6 +597,7 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.trans" />
       <item itemvalue="Python.loan" />
       <item itemvalue="Python.logic" />
@@ -488,6 +611,21 @@
         <item itemvalue="Python.trans" />
         <item itemvalue="Python.logic" />
         <item itemvalue="Python.loan" />
+=======
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.trans" />
+      <item itemvalue="Python.loan" />
+      <item itemvalue="Python.logic" />
+      <item itemvalue="Python.fact" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fact" />
+        <item itemvalue="Python.logic" />
+        <item itemvalue="Python.loan" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.trans" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +652,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="193" y="46" width="1440" height="963" extended-state="1" />
+=======
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2633427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -606,6 +748,29 @@
     <entry file="file://$PROJECT_DIR$/venv/tablePro/loan2.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/disp.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pythonSc/card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pythonSc/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
     <entry file="file://$PROJECT_DIR$/venv/pythonSc/loan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -634,6 +799,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/csvPre/card.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -656,6 +822,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/csvPre/client.csv">
+=======
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/account2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/card1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/disp2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/district.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/loan3.csv">
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-end-line="1" />
@@ -669,6 +860,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/tablePro/district.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -676,6 +868,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/order.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/trans3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/csvPre/loan.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-end-line="1" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
         </state>
       </provider>
     </entry>
@@ -684,18 +892,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/csvPre/account.csv">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-228">
           <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/tablePro/trans3.csv">
+=======
+        <state relative-caret-position="-12995">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/client2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/csvPre/account.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/csvPre/client.csv">
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-18">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/csvPre/trans.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-18">
@@ -704,12 +934,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/tablePro/trans4.csv">
+=======
+    <entry file="file://$PROJECT_DIR$/venv/csvPre/disp.csv">
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="951">
           <caret line="76793" column="64" selection-start-line="76793" selection-start-column="64" selection-end-line="76793" selection-end-column="64" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/pythonSc/trans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -795,6 +1029,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/venv/csvPre/card.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12973">
+          <caret column="3" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/csvPre/trans.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="207" column="62" selection-start-line="207" selection-start-column="62" selection-end-line="207" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pythonSc/trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/account1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pythonSc/accout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="true" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pythonSc/fact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/fact.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tablePro/fact1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-end-line="77972" />
+>>>>>>> c13ae3d5b3d8281dfdf9c83a2f4b557477e02827
         </state>
       </provider>
     </entry>
